@@ -19,6 +19,16 @@ A **real-time, interactive world map** that displays **today's earthquakes** usi
 
 ---
 
+## Screenshots
+
+### Full World View (Zoomed Out)
+![Full map showing one world, no blank space](https://raw.githubusercontent.com/rahul420206/Earthquake-Visualizer/main/screenshot-full-map.png)
+
+### Earthquake Details Popup
+![Click any marker to see magnitude, location, and time](https://raw.githubusercontent.com/rahul420206/Earthquake-Visualizer/main/screenshot-popup.png)
+
+---
+
 ## Tech Stack
 
 | Technology        | Purpose |
