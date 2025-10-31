@@ -21,11 +21,11 @@ A **real-time, interactive world map** that displays **today's earthquakes** usi
 
 ## Screenshots
 
-### Full World View (Zoomed Out)
-![Full map showing one world, no blank space](https://raw.githubusercontent.com/rahul420206/Earthquake-Visualizer/main/Screenshot (185).png)
+### Full Map View
+![Full map showing all earthquakes](https://raw.githubusercontent.com/rahul420206/Earthquake-Visualizer/main/Screenshot%20(185).png)
 
 ### Earthquake Details Popup
-![Click any marker to see magnitude, location, and time](https://raw.githubusercontent.com/rahul420206/Earthquake-Visualizer/main/Screenshot (186).png)
+![Click any marker to see details](https://raw.githubusercontent.com/rahul420206/Earthquake-Visualizer/main/Screenshot%20(186).png)
 
 ---
 
